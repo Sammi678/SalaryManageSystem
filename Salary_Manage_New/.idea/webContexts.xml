@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/admin.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/admin_update.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/company.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/employees.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao/salary_select.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/baobiao" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement/fixed_salary_management_update.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/fixedSalaryManagement" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project/insertImport.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/import_project" />
+        <entry key="file://$PROJECT_DIR$/WebContent/WEB-INF/pages/login.jsp" value="file://$PROJECT_DIR$/WebContent/WEB-INF/pages" />
+      </map>
+    </option>
+  </component>
+</project>
